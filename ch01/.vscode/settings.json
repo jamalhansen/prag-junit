@@ -1,0 +1,5 @@
+{
+  "java.format.settings.url": "eclipse-formatter.xml",
+  "java.project.sourcePaths": ["src/main/java"],
+  "maven.view": "hierarchical"
+}
